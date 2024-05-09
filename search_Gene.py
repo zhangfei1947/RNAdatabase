@@ -7,7 +7,7 @@ import re
 
 #configure list 
 mysql_user = 'root'
-mysql_pwd = 'ipf2018123456'
+mysql_pwd = '**********'
 mysql_db = 'rnaseqdb'
 mysql_geneinfo_tb = 'geneinfo'
 mysql_libinfo_tb = 'libinfo'

@@ -7,7 +7,7 @@ from datetime import datetime
 
 #configure list 
 mysql_user = 'root'
-mysql_pwd = 'ipf2018123456'
+mysql_pwd = '**********'
 mysql_db = 'rnaseqdb'
 mysql_miRNA_tb = 'miRNA'
 mysql_libinfo_tb = 'libinfo'

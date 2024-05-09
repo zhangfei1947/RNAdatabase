@@ -6,7 +6,7 @@ import re
 
 #configure list 
 mysql_user = 'root'
-mysql_pwd = 'ipf2018123456'
+mysql_pwd = '*********'
 mysql_db = 'rnaseqdb'
 mysql_libinfo_tb = 'libinfo'
 mysql_mirna_tb = 'miRNA'

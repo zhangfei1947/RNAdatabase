@@ -4,7 +4,7 @@ import numpy as np
 
 #configure list 
 mysql_user = 'root'
-mysql_pwd = 'ipf2018123456'
+mysql_pwd = '*********'
 mysql_db = 'rnaseqdb'
 mysql_libinfo_tb = 'libinfo'
 mysql_conn = MySQLdb.connect(host="localhost", user=mysql_user, passwd=mysql_pwd, db=mysql_db)

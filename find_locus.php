@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost","root","ipf2018123456","rnaseqdb");
+$conn = mysqli_connect("localhost","root","********","rnaseqdb");
 if (!$conn){
 	die ("不能连接数据库".mysql_error()."<br/>");
 }
